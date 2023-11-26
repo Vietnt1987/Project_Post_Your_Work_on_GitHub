@@ -1,1 +1,3 @@
-# Project_Post_Your_Work_on_GitHub
+# Udacity-Programming-For-Data-Science-With-Python
+# Created by vietnt
+# This repository contains projects did for Udacity Programming For Data Science With Python
